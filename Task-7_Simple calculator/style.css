@@ -1,0 +1,73 @@
+body {
+    background: #acef99;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: #19c425;
+}
+
+.container {
+    background: #ecf7ee;;
+    margin: 100px auto;
+    width: 380px;
+    border: 1px solid #1eaa0e;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(96, 187, 16, 0.2);
+}
+
+
+input{
+    width: 90%;
+    margin-top: 8px;
+    padding: 14px 12px ;
+    border: 1px solid #3ace5c;
+    border-radius: 3px;
+    color: #217610;
+}
+
+ select {
+    width: 90%;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding: 12px 12px ;
+    margin-bottom: 5px;
+    border: 1px solid #3ace5c;
+    border-radius: 3px;
+    
+}
+
+
+button {
+    background-color: #19c425; 
+    color: white;
+    border: none;
+    margin-right: 30px;
+    margin-left: 85px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 10px 12px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.button1{
+    background-color: #19c425;
+}
+.button2{
+   background-color: #f10a0a;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+    color: orangered;
+}
+
+header{
+    background: #0eb955;
+    padding: 10px;
+    text-align: center;
+    color: #f0faf3;
+    width: 95%;
+    margin-bottom: 20px;
+    font-size: larger;
+}
